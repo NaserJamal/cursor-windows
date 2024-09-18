@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Open with Cursor]
+@="Open with Cursor"
+"Icon"="%LOCALAPPDATA%\\Programs\\cursor\\Cursor.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\Open with Cursor\command]
+@="\"%LOCALAPPDATA%\\Programs\\cursor\\Cursor.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Open with Cursor]
+@="Open with Cursor"
+"Icon"="%LOCALAPPDATA%\\Programs\\cursor\\Cursor.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Open with Cursor\command]
+@="\"%LOCALAPPDATA%\\Programs\\cursor\\Cursor.exe\" \"%V\""
