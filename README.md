@@ -1,6 +1,7 @@
 # Cursor Context Menu Integration
 
 This repository contains a registry script that adds Cursor to your Windows context menu, allowing you to open files and folders directly with Cursor.
+![context](https://github.com/user-attachments/assets/bcc062b1-2e83-42b4-ade4-df009c06b6ed)
 
 ## Prerequisites
 
